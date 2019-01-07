@@ -3,6 +3,19 @@
   width: 355px;
   height: 180px;
   border:  1px #ccc;
-  border-top: 5px #333;
-  background-color: beige;
+  border-top: 5px #333; 
+}
+
+.tile-container{
+  width: 325px;
+}
+
+.avatar{
+  float: left;
+  width: 75px;
+  height: 75px;
+}
+
+button{
+  border: 1px #ccc;
 }

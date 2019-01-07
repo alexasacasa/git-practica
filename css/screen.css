@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Arial, Helvetica, sans-serif; }
+
+.tile {
+  width: 355px;
+  height: 180px;
+  border: 1px #ccc;
+  border-top: 5px #333; }
+
+.tile-container {
+  width: 325px;
+  padding: 25px 15px; }
+
+.avatar {
+  float: left;
+  width: 75px;
+  height: 75px; }
+
+.tittle {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333; }
+
+.estado {
+  width: 5px;
+  border-radius: 50%; }
+
+btn-talk {
+  height: 35px;
+  border: 1px #ccc;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase; }
+
+/*# sourceMappingURL=screen.css.map */
